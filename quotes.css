@@ -1,0 +1,20 @@
+.quotes-div {
+    width: fit-content;
+    border: 1px solid #000;
+    border-radius: 8px;
+    margin: 16px;
+    padding: 16px;
+    color: #fff;
+  }
+
+  .textarea-div {
+    width: 400px;
+    height: 150px;
+    border: 1px solid #000;
+    border-radius: 8px;
+    margin-left: 450px;
+    padding: 16px;
+    background-color: rgb(215, 227, 250);
+    font-family:Bold Serif Italic;
+    font-style: italic;
+  }
